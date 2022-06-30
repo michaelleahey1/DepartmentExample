@@ -1,0 +1,20 @@
+Homework
+1. create a table Dept
+    did    (primary key) [unique values]
+    tname
+    empid  (foreign key)
+2. create a table Emp
+    empid  (primary key)
+    ename
+    salary
+3. load the database with arbitary data
+4. query for all rows
+5. query for all emp with salary < 10000
+6. query from both tables (OPTIONAL)
+7. update the pname of one of the depts
+8. update the salary of one of the emp - increase by 500
+9. delete emp with salary > x
+10. try a query again
+11. drop a table and retry query
+12. re-create the table and retry query
+13. anything else that you want to try
